@@ -23,6 +23,10 @@
 			<tr>
 				<td colspan="2" align="middle"><input type="submit" value="Guardar" name="boton""></td>
 			</tr>
+			<tr>
+				<td>Cambio 1</td>
+				<td>este es el cambio</td>
+			</tr>
 		</form>
 	</table>
 
