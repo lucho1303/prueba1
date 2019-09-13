@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h1>El pepe vale arta verga</h1>
-	<table>
+	<table  border="5">
 		<form method="post" action="">
 			<tr>
 				<td>Usuario :</td>
